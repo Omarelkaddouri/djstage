@@ -2,8 +2,7 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { 
-  MagnifyingGlassIcon, 
-  UserCircleIcon, 
+  MagnifyingGlassIcon,  
   ShoppingCartIcon, 
   Bars3Icon, 
   XMarkIcon 
